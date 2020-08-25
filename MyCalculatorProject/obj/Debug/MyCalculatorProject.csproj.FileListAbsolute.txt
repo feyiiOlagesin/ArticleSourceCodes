@@ -1,0 +1,7 @@
+C:\Users\Samuel Olagesin\source\repos\MyCalculatorProject\bin\Debug\MyCalculatorProject.exe.config
+C:\Users\Samuel Olagesin\source\repos\MyCalculatorProject\bin\Debug\MyCalculatorProject.exe
+C:\Users\Samuel Olagesin\source\repos\MyCalculatorProject\bin\Debug\MyCalculatorProject.pdb
+C:\Users\Samuel Olagesin\source\repos\MyCalculatorProject\obj\Debug\MyCalculatorProject.csprojAssemblyReference.cache
+C:\Users\Samuel Olagesin\source\repos\MyCalculatorProject\obj\Debug\MyCalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Olagesin\source\repos\MyCalculatorProject\obj\Debug\MyCalculatorProject.exe
+C:\Users\Samuel Olagesin\source\repos\MyCalculatorProject\obj\Debug\MyCalculatorProject.pdb
